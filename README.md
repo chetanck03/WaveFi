@@ -34,7 +34,7 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
   - Smart contract development
   - Frontend-blockchain integration
   - Team coordination
-- **GitHub**: [github.com/chetan](https://github.com/chetan)
+- **GitHub**: [github.com/chetan](https://github.com/chetanck03)
 - **LinkedIn**: [linkedin.com/in/chetan](https://linkedin.com/in/chetan)
 
 #### Harsh Kapoor
@@ -95,6 +95,7 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 - Authentication: Privy Wallet
 - Game Engine: Canvas-based implementations
 - Architecture: Mobile-first, responsive design
+- Hosting: vercel
 
 ### Smart Contract Architecture:
 - Points Management Contract: Handles Monad token/point conversion
@@ -110,18 +111,21 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 ## ✨ Key Features
 
 ### Point System
+![Feature 1](/public/feature1.png)
 - ✅ Monad Token Conversion to platform points
 - ✅ Flexible point package denominations
 - ✅ Quest rewards through platform engagement
 - ✅ Transparent exchange rates
 
 ### Game Room Mechanics
+![Feature 2](/public/feature2.png)
 - ✅ Public, Private, and Tournament rooms
 - ✅ Custom room creation with configurable parameters
 - ✅ Transparent prize distribution
 - ✅ Entry fee-based competition
 
 ### Initial Games
+![Feature 3](/public/feature3.png)
 - ✅ Flappy Bird Clone
   - Tap/click mechanics with progressive difficulty
   - Score based on distance traveled
@@ -131,6 +135,7 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
   - AI-based judging system
 
 ### Player Statistics & Leaderboards
+![Feature 4](/public/feature4.png)
 - ✅ Comprehensive win/loss tracking
 - ✅ Earnings display and statistics
 - ✅ Game-specific rankings
