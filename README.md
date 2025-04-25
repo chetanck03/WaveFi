@@ -35,7 +35,7 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
   - Frontend-blockchain integration
   - Team coordination
 - **GitHub**: [github.com/chetan](https://github.com/chetanck03)
-- **LinkedIn**: [linkedin.com/in/chetan](https://linkedin.com/in/chetan)
+- **LinkedIn**: [linkedin.com/in/chetan](https://www.linkedin.com/in/chetan-ck-022717277/)
 
 #### Harsh Kapoor
 - **Role**: Frontend Developer & UI/UX Designer
@@ -44,7 +44,7 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
   - Game mechanics implementation
   - Responsive design
   - User experience optimization
-- **GitHub**: [github.com/harshkapoor](https://github.com/harshkapoor)
+- **GitHub**: [github.com/harshkapoor](https://github.com/kapoor108)
 
 #### Gunjan
 - **Role**: Smart Contract Developer
@@ -145,8 +145,8 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link:**  https://www.youtube.com/watch?v=ZCUgzWmHKG8
+- **Pitch Deck / PPT Link:** https://drive.google.com/file/d/12ow2pitxzPaGyJyHPpB7lunxKqGLKglQ/view?usp=drive_link
 
 ---
 
