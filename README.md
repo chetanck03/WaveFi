@@ -145,8 +145,8 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:**  https://www.youtube.com/watch?v=ZCUgzWmHKG8
-- **Pitch Deck / PPT Link:** https://drive.google.com/file/d/12ow2pitxzPaGyJyHPpB7lunxKqGLKglQ/view?usp=drive_link
+- **Demo Video Link:**  [video](https://www.youtube.com/watch?v=ZCUgzWmHKG8)
+- **Pitch Deck / PPT Link:** [file](https://drive.google.com/file/d/1NS0cC2CSLFE-8Avg1ZvKyWhpWrQBgolq/view?usp=drive_link)
 
 ---
 
